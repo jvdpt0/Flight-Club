@@ -1,4 +1,3 @@
-#This file will need to use the DataManager,FlightSearch, FlightData, NotificationManager classes to achieve the program requirements.
 from pprint import pprint
 from data_manager import DataManager
 from flight_search import FlightSearch
